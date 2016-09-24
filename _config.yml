@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : “CM Wilson“
 title_separator          : "-"
-name                     : "Your Name"
+name                     : “CM Wilson“
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : “cmwilson_”
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
-  email            :
+  email            : “mailto:chrismewilson@gmail.com”
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : “http://instagram.com/chriswilsoncm”
   lastfm           :
   linkedin         :
   pinterest        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : “http://twitter.com/cmwilson_”
   vine             :
   weibo            :
   xing             :
