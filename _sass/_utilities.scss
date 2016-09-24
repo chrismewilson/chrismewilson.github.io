@@ -186,6 +186,12 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  .fa-letterboxd,
+  .fa-film-square,
+  .fa-film-play {
+    color: $film-color;
+  }
+
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;
