@@ -81,7 +81,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : 
-  email            : chrismewilson@gmail.com
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : chriswilsoncm
+  instagram        : 
   lastfm           :
   linkedin         :
   pinterest        :
@@ -105,7 +105,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  letterboxd       : cmw
+  letterboxd       : 
 
 
 # Reading Files
