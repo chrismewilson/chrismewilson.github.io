@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : CM Wilson
 title_separator          : "-"
 name                     : CM Wilson
-description              : "An amazing website."
+description              : “You know… him.”
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : CM Wilson
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : 
   location         : 
   email            : 
   uri              :
@@ -92,7 +92,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : thecmwilson
   lastfm           :
   linkedin         :
   pinterest        :
@@ -105,7 +105,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  letterboxd       : 
+  letterboxd       : cmwilson
 
 
 # Reading Files
